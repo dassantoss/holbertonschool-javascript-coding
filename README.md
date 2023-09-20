@@ -33,16 +33,15 @@ By the end of this project, you should be able to:
 $ curl -sL https://deb.nodesource.com/setup_10.x | sudo -E bash -
 $ sudo apt-get install -y nodejs
 
-```bash
 $ sudo npm install semistandard --global
 
-```bash
 $ sudo npm install request --global
 $ export NODE_PATH=/usr/lib/node_modules
 
+```
+
 Notes: The request module has been deprecated since February 2020, but it's still a simple and powerful module for practicing web scraping in JavaScript.
 
-``````
 ## Resources
 
 You can refer to the following resources to learn more about web scraping and JavaScript:
