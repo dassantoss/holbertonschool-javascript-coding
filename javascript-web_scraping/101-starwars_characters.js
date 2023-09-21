@@ -1,3 +1,4 @@
+#!/usr/bin/node
 request(apiUrl, (error, response, body) => {
   if (error) {
     console.error('Error:', error);
