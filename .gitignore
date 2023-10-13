@@ -401,4 +401,7 @@ javascript-web_scraping/cisfun
 *package.json
 *.babelrc
 *.eslintrc.json
+*main*.*
 Node_JS_basic/database.csv
+*.eslintrc.js
+*babel.config.js
