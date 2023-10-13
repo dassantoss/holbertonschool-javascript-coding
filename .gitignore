@@ -396,6 +396,9 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
-javascript-web_scraping/package-lock.json
+*package-lock.json
 javascript-web_scraping/cisfun
-javascript-web_scraping/package.json
+*package.json
+*.babelrc
+*.eslintrc.json
+Node_JS_basic/database.csv
