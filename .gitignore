@@ -405,3 +405,4 @@ javascript-web_scraping/cisfun
 Node_JS_basic/database.csv
 *.eslintrc.js
 *babel.config.js
+*__tests__
