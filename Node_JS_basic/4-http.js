@@ -2,7 +2,7 @@ const http = require('http');
 
 const server = http.createServer((req, res) => {
   res.setHeader('Content-Type', 'text/plain');
-  res.end('Hello Holberton School!\n');
+  res.end('Hello Holberton School!');
 });
 
 const PORT = 1245;
